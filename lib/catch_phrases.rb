@@ -14,7 +14,7 @@ def link
 end
 
 def all_phrases
-  puts all of the previous catch phrases 
+  puts "all of the previous catch phrases"
   puts mario
   puts toadstool
   puts link 
