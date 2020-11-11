@@ -3,23 +3,22 @@ def mario
   puts phrase
 end
 
-phrase
-
 def toadstool
   status = "Thank You Mario! But Our Princess Is In Another Castle!"
   puts status
 end
-
-status
 
 def link
   danger = "It's Dangerous To Go Alone! Take This."
   puts danger 
 end
 
-link
-
 def all_phrases
+  mario_phrases = mario + toadstool + link
+  puts mario_phrases
+  mario_phrases
+end
+  
   
 
 
