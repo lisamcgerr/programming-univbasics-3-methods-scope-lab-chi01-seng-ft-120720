@@ -14,10 +14,12 @@ def link
 end
 
 def all_phrases
-  mario_phrases = mario + toadstool + link
-  puts mario_phrases
-  mario_phrases
+  puts all of the previous catch phrases 
+  puts mario
+  puts toadstool
+  puts link 
 end
+
   
   
   
